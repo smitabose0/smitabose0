@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smita Bose</h1>
-<h3 align="center">A passionate frontend developer ML engineering student from India</h3>
+<h3 align="center">A passionate frontend developer and ML engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitabose0&label=Profile%20views&color=0e75b6&style=flat" alt="smitabose0" /> </p>
 
@@ -16,8 +16,7 @@
 <a href="https://twitter.com/smitabose1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smitabose1289" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/smita-bose-25b3b0192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smita-bose-25b3b0192/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/smita1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/smita1289" height="30" width="40" /></a>
-<a href="https://fb.com/nishikabose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishikabose" height="30" width="40" /></a>
-<a href="https://instagram.com/nishikabose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishikabose" height="30" width="40" /></a>
+<a href="https://instagram.com/nishikabose.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishikabose.z" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdtxla0ypbq8nswzicawk7q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdtxla0ypbq8nswzicawk7q" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/smitabose7826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smitabose7826" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/smitabose7826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="smitabose7826" height="30" width="40" /></a>
